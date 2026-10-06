@@ -1,4 +1,3 @@
-# credit_default_risk_analysis
 # Credit Default Risk Analysis
 
 ##  Project Overview
